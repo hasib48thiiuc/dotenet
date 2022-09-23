@@ -1,0 +1,21 @@
+﻿.box {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.mybutton {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+p {
+  background-color: yellow;
+}
+p button {
+  background-color: green;
+}
+p button:hover {
+  background-color: blue;
+}

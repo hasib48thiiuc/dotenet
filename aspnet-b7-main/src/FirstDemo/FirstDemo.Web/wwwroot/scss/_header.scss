@@ -1,0 +1,14 @@
+﻿
+@mixin someStyle($color) {
+    p {
+        background-color: $color;
+
+        button {
+            background-color: green;
+
+            &:hover {
+                background-color: blue;
+            }
+        }
+    }
+}
